@@ -1,12 +1,10 @@
-# Pos-plugin-woo
-
 <p align="center">
-  <a href="https://wcpos.com/"><img src="archive-notice.svg" alt=""/></a>
+  <a href="https://github.com/wcpos"><img src="archive-notice.svg" alt=""/></a>
 </p>
 
 # [WooCommerce POS](http://wcpos.com) 
 [![Build Status](https://travis-ci.org/kilbot/WooCommerce-POS.svg)](https://travis-ci.org/kilbot/WooCommerce-POS) 
-[![Code Climate](https://codeclimate.com/github/kilbot/WooCommerce-POS/badges/gpa.svg)]
+[![Code Climate](https://codeclimate.com/github/kilbot/WooCommerce-POS/badges/gpa.svg)](https://codeclimate.com/github/kilbot/WooCommerce-POS)
 [![Coverage Status](https://coveralls.io/repos/kilbot/WooCommerce-POS/badge.svg)](https://coveralls.io/r/kilbot/WooCommerce-POS)
 [![Dependency Status](https://david-dm.org/kilbot/WooCommerce-POS.svg)](https://david-dm.org/kilbot/WooCommerce-POS)
 [![Join the chat at https://gitter.im/kilbot/WooCommerce-POS](https://badges.gitter.im/kilbot/WooCommerce-POS.svg)](https://gitter.im/kilbot/WooCommerce-POS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -23,11 +21,11 @@ Development repository for WooCommerce POS - the Point of Sale plugin for [WooCo
 
 ## Report a bug
 
-Please report all bugs [here] or contact support via [support@wcpos.com](mailto:support@wcpos.com)
+Please report all bugs [here](https://github.com/kilbot/WooCommerce-POS/issues) or contact support via [support@wcpos.com](mailto:support@wcpos.com)
 
 ## Translations
 
-If you would like to help translate WooCommerce POS into your language please check out the [WooCommerce POS Language Packs] repository.
+If you would like to help translate WooCommerce POS into your language please check out the [WooCommerce POS Language Packs](https://github.com/kilbot/WooCommerce-POS-Language-Packs) repository.
 
 ## Developing locally
 
@@ -49,7 +47,7 @@ Navigate to your local projects directory and clone the project.
 The recursive flag will init and update any submodules. 
 
 ```sh
-git clone --recursive https://github.com/BuyBigBall/Pos-plugin-woo.git woocommerce-pos
+git clone --recursive https://github.com/kilbot/WooCommerce-POS.git woocommerce-pos
 ```
 
 Then, navigate into the root directory of the project and install the dependencies.
